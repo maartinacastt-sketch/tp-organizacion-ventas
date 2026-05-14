@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+
+!git add .
+!git commit -m "KAN-5: Logica de analisis / KAN-6: Revision final y cierre"
+!git push origin main
